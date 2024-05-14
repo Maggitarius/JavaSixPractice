@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "coolmod:amber"
+    }
+  },
+  "result": {
+    "item": "coolmod:ural_block"
+  }
+}
